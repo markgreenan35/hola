@@ -1,4 +1,4 @@
-class Hola::Translator
+class Hola_test::Translator
   def initialize(language = "english")
     @language = language
   end
