@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.date = %q{2010-04-03}
   s.description = %q{A simple hello world gem}
   s.email = %q{nick@quaran.to}
-  s.files = ["Rakefile", "lib/hola.rb", "lib/hola/translator.rb", "bin/hola"]
+  s.files = ["Rakefile", "lib/hola_test.rb", "lib/hola_test/translator.rb", "bin/hola_test"]
   s.test_files = ["test/test_hola.rb"]
   s.homepage = %q{http://rubygems.org/gems/hola}
   s.require_paths = ["lib"]
