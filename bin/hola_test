@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hola_test'
+puts Hola_test.hi(ARGV[0])
